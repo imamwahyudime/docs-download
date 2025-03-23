@@ -2,7 +2,7 @@
 
 This script allows you to download protected PDFs from Google Drive directly through your browser's developer console.
 
-**⚠️ Important:** Make sure all pages are loaded before running the script.
+**⚠️ Important: Make sure all pages are loaded before running the script.**
 
 ## Usage
 
