@@ -1,10 +1,10 @@
 # Google Drive Protected PDF Downloader (Browser Console Script)
 
-This script allows you to download protected PDFs from Google Drive directly through your browser's developer console. 
+This script allows you to download protected PDFs from Google Drive directly through your browser's developer console.
 
-**Important: Make sure all pages are loaded before running the script.**
+**⚠️ Important:** Make sure all pages are loaded before running the script.
 
-**How it Works:**
+## Usage
 
 1.  **Google Docs Preparation:**
     * Open the protected PDF in Google Docs.
@@ -16,11 +16,11 @@ This script allows you to download protected PDFs from Google Drive directly thr
     * Paste the provided JavaScript code into the console.
     * Press Enter to execute the script.
 
-3.  **Download:** 
+3.  **Download:**
     * You should get a `download.pdf` file.
     * Enjoy!
 
-**Code Explanation:**
+## Code Explanation
 
 It leverages jsPDF to convert embedded images within the Google Docs preview into a downloadable PDF.
 
