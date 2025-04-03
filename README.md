@@ -3,8 +3,8 @@
 This script allows you to download protected PDFs from Google Drive directly through your browser's developer console.
 
 This script have two varian **(You only need one to use)** :
-- **pdf_download.js :** This is the original script which works perfectly, except for the fact that the documents might be bit blurry (low quality).
-- **pdf_download-xlarge.js :** This script is a varian which fixed the blurry document issue, but it has misaligned print area when printing the downloaded documents (as tested on my PC)
+- **pdf_download-lite.js :** This is the original script which works perfectly, except for the fact that the documents might be bit blurry (low quality).
+- **pdf_download-large.js :** This script is a varian which fixed the blurry document issue, but the pdf file size might be a bit large.
 
 **⚠️ Important: Make sure all pages are loaded before running the script.**
 
