@@ -8,7 +8,7 @@ This script have two varian **(You only need one to use)** :
 
 **⚠️ Important: Make sure all pages are loaded before running the script.**
 
-## Usage
+## Usage:
 
 1.  **Google Docs Preparation:**
     * Open the protected PDF in Google Docs.
@@ -24,7 +24,7 @@ This script have two varian **(You only need one to use)** :
     * You should get a `download.pdf` file.
     * Enjoy!
 
-## Code Explanation
+## Code Explanation:
 
 It leverages jsPDF to convert embedded images within the Google Docs preview into a downloadable PDF.
 
